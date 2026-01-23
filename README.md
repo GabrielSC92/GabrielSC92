@@ -29,9 +29,3 @@ My academic interests lie at the intersection of quantitative methods and practi
 **Databases:** PostgreSQL, dimensional modeling, temporal data architecture  
 **Data Engineering:** ETL pipeline design, data quality frameworks, migration systems  
 **Analytics:** Business intelligence, dashboard development, financial reporting
-
----
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
