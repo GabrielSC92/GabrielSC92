@@ -1,16 +1,21 @@
-## Hi there 👋
+Gabriel Silva Cheinquer
+Data Engineer at Faz Capital · MSc Applied Data Science at Utrecht University
 
-<!--
-**GabrielSC92/GabrielSC92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional Work
+I work as a Data Engineer at Faz Capital, a subsidiary of XP Investimentos. My work focuses on building and maintaining the data infrastructure that powers financial analytics and reporting.
+Core responsibilities:
 
-Here are some ideas to get you started:
+Designing and optimizing PostgreSQL databases with complex temporal data structures
+Building ETL pipelines for commission processing and financial data integration
+Implementing dimensional models using SCD Type 2 patterns
+Developing BI dashboards and reporting infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Academic Research
+Currently pursuing an MSc in Applied Data Science at Utrecht University, building on a BSc in Economics with a specialization in data science from the same institution.
+My academic interests lie at the intersection of quantitative methods and practical data engineering, with a focus on bridging theoretical foundations with scalable, production-ready solutions.
+
+Technical Stack
+Databases: PostgreSQL, dimensional modeling, temporal data architecture
+Data Engineering: ETL pipeline design, data quality frameworks, migration systems
+Analytics: Business intelligence, dashboard development, financial reporting
