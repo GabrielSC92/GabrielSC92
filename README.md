@@ -30,6 +30,8 @@ MSc in Applied Data Science at Utrecht University; BSc in Economics with a data 
 
 **Earlier coursework:** Causal inference methods (DAGs, IPW, propensity scores, doubly robust estimators, marginal structural models) applied to workplace analytics. Policy analysis using intersectionality frameworks and fairness evaluation for public governance.
 
+**BSc thesis — [The Historical Impact of Roman Roads on French Trade Costs](https://github.com/GabrielSC92/Thesis-Gabriel/tree/main):** 2SLS instrumental variable analysis using Roman road density (117 CE) as an instrument for modern French road infrastructure to identify the causal effect on bilateral trade costs and volumes across 94 departments × 13 EU14 partners. Gravity model trade costs (Novy 2013), spatial data processing (shapefiles, CRS transformations, density calculations), and robustness checks across elasticity values and model specifications. Supervised by Bas Machielsen.
+
 Interests: quantitative methods, causal inference, data engineering, and turning research ideas into scalable systems.
 
 ---
