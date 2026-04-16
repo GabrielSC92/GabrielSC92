@@ -11,7 +11,6 @@ I build end-to-end data products: data modeling, ETL orchestration, feature engi
 
 - **MSc Thesis:** *REM with Multiple Receivers*  
   Testing when multi-receiver event data can be transformed into dyadic form while preserving valid inference.  
-  [Thesis repo](https://github.com/GabrielSC92/Thesis-MSc-ADS-REM)
 
 - **Applied ML in production (Faz Capital):**  
   Churn risk systems with monthly scoring, monitoring, and retraining logic in Airflow + PostgreSQL.
