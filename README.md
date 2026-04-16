@@ -26,6 +26,15 @@ MSc in Applied Data Science at Utrecht University; BSc in Economics with a data 
 
 **Recent work:** Recurrent transformer for **chess move prediction** (PyTorch): custom encoder with From/To prediction heads and shared recurrent blocks, trained from scratch on engine-generated data. Built for the INFOMTALC tournament; model on [Hugging Face](https://huggingface.co/Izzent/recurrent-transformer-chess).
 
+**INFOMTALC - Predicting UN Voting Behavior with Transformers**  
+Course project for *Transformers: Applications in Language and Communication* (MSc ADS, Utrecht University). Built an end-to-end NLP pipeline to predict UN General Assembly voting outcomes (`Y`/`N`/`X`) from country identity, resolution titles, and speech-derived context from the UN General Debate Corpus.
+
+- Fine-tuned `distilbert-base-uncased` across multiple input formulations (title-only, title+summary, and ABC feature ablations/augmentations).
+- Integrated UN voting records (947K+ entries) with speech relevance filtering and local LLM-assisted summarization (Ollama) stored in SQLite.
+- Developed augmentation strategy expanding training data from ~119K to ~712K examples for more robust class learning.
+- Ran model comparison and voting-bloc exploratory analysis (MDS + K-means), with best performance from the ABC setup and improved handling of the hard non-voting (`X`) class.
+- Repository: [INFOMTALC_Transformers_Research](https://github.com/GabrielSC92/INFOMTALC_Transformers_Research)
+
 **Quality of Dutch Government** (DSPG, Period 2): Full-stack RAG application for Utrecht University's Institute for Government Quality Research. Built a document ingestion pipeline (PyMuPDF → chunking → LLM summarization → topic classification), a 4-level retrieval hierarchy with agent-based query routing, and a Streamlit interface with dual views (citizen chat + researcher dashboard with data tables, Plotly visualizations, and export). Local LLM deployment via Ollama (Llama 3.2), SQLite/PostgreSQL backend, user-normalized satisfaction metrics to prevent survey skewing, and a custom Response Quality Score for verification. Privacy-first: no raw chat stored, only anonymized topic summaries.
 
 **Earlier coursework:** Causal inference methods (DAGs, IPW, propensity scores, doubly robust estimators, marginal structural models) applied to workplace analytics. Policy analysis using intersectionality frameworks and fairness evaluation for public governance.
